@@ -5,10 +5,6 @@ Currently it supports Fedora 32 ARM64 and Fedora 31 ARM64.
 
 Starting from Fedora 28, Container image for 32bit ARM is no longer provided.
 
-# Alternative
-
-You can also try running https://github.com/nmilosev/anyfed which is a bit more versatile in creating chroot's.
-
 # Instructions
 
 Supported images:
@@ -33,5 +29,3 @@ To uninstall:
 ```
 sh termux-fedora.sh uninstall
 ```
-
-https://nmilosev.svbtle.com/termuxfedora-install-fedora-on-your-phone-with-termux
